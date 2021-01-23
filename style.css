@@ -1,9 +1,14 @@
 * {
-    color: red;
-    background-color: blue;
+    color: black;
+    background-color: #a7c6bb;
 }
 
 p:hover {
+    color: aqua;
+
+}
+
+b:hover {
     color: aqua;
 
 }
